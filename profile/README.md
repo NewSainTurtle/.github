@@ -15,7 +15,7 @@
 
 ### 📖 진행중인 스터디
 - [[Algorithm] NewSainTurtleAlgo2](https://github.com/NewSainTurtle/NewSainTurtleAlgo2) 2023 하반기 알고리즘 스터디 (2023.07.05 ~ )
-- [[CS] CS-study-Java](https://github.com/NewSainTurtle/CS-study) 면접 대비 자바 CS 스터디 (2023.07.06 ~ )
+- [[CS] Java-study](https://github.com/NewSainTurtle/CS-study) 면접 대비 자바 CS 스터디 (2023.07.06 ~ )
 
 ### 📚 종료된 스터디
 - [[Web] NewSainTurtleProject](https://github.com/NewSainTurtle/NewSainTurtleProject) 여행 스케줄링 플래너 ‘**MYRO**’에 추가 기능을 구현한 웹 개발 프로젝트 (2023.01.13 ~ 2023.04.11)

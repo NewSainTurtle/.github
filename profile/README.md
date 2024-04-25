@@ -20,4 +20,4 @@
 - [[Web] NewSainTurtleProject](https://github.com/NewSainTurtle/NewSainTurtleProject) 여행 스케줄링 플래너 ‘**MYRO**’에 추가 기능을 구현한 웹 개발 프로젝트 (2023.01.13 ~ 2023.04.11)
 - [[Algorithm] NewSainTurtleAlgo](https://github.com/NewSainTurtle/NewSainTurtleAlgo) 2023 상반기 알고리즘 스터디 (2023.01.13 ~ 2023.07.03)
 - [[CS] Java-study](https://github.com/NewSainTurtle/CS-study) 면접 대비 자바 CS 스터디 (2023.07.06 ~ 2023.08.30)
-- [[Web] ShadowMate](https://github.com/NewSainTurtle/ShadowMate) 스터디 플래너 웹 개발 프로젝트 (2023.07.10 ~ 2023.12.13)
+- [[Web] ShadowMate](https://github.com/NewSainTurtle/ShadowMate) 스터디 플래너 웹 개발 프로젝트 (2023.07.10 ~ 2024.03.28)
